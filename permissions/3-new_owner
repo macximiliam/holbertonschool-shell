@@ -1,3 +1,2 @@
 #!/bin/bash
-chown
 sudo chown betty:betty /tmp/hello
