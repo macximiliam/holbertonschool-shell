@@ -1,0 +1,2 @@
+#!/bin/bahs
+chmod g+r,g+w,g+x
