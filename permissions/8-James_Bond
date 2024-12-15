@@ -1,2 +1,2 @@
-#!/bin/bahs
-chmod g+r,g+w,g+x
+#!/bin/bash 
+chmod o+x o+r o+w
