@@ -1,3 +1,3 @@
-#!/bin/bas
-chown -a vincent hello guillaume
+#!/bin/bash
+chown --from=guillaume vincent hello
 
