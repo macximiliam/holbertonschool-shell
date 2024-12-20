@@ -1,2 +1,2 @@
-#!/bin/bash
-Write a script that prints the absolute path name of the current working directory.
+i#!/bin/bash
+Escriba un script que imprima “Hello, World”, seguido de una nueva línea en la salida estándar.
